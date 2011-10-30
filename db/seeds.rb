@@ -9,7 +9,7 @@
 
 posts = Post.create( [
                         { :title => "Lorem ipsum dolor sit amet",
-                          :content => "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Praesent sit amet nisl magna. Nulla dapibus eros vel nulla dignissim in consequat nunc blandit. Cras ligula nibh, ultricies vitae pulvinar at, volutpat sit amet neque. Mauris nunc turpis, accumsan at vestibulum mattis, placerat in ipsum. Phasellus justo felis, scelerisque ut mattis sit amet, blandit eget urna. Integer nibh elit, pretium id pretium sit amet, luctus vel sem.", 
+                          :content => "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Praesent sit amet nisl magna. Nulla dapibus eros vel nulla dignissim in consequat nunc blandit. Cras ligula nibh, ultricies vitae pulvinar at, volutpat sit amet neque. Mauris nunc turpis, accumsan at vestibulum mattis, placerat in ipsum. Phasellus justo felis, scelerisque ut mattis sit amet, blandit eget urna. Integer nibh elit, pretium id pretium sit amet, luctus vel sem.",
                           :updated_at => "2011-02-10 18:50:22"},
                         { :title => "Phasellus elit nisi",
                           :content => "Phasellus elit nisi, commodo vel tincidunt gravida, pharetra a elit. Donec ante sem, eleifend a egestas quis, interdum vel arcu. Nam quis magna mattis magna suscipit eleifend varius ut libero. Aliquam scelerisque viverra mattis. Nullam quis nunc ac arcu eleifend dignissim. Etiam venenatis auctor leo, nec vulputate metus tristique nec. Curabitur rhoncus metus massa, at pulvinar erat.",

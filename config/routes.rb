@@ -1,14 +1,14 @@
 BlogApp2::Application.routes.draw do
-  
+
   # This route provides a route for get requests to the index
   # action in the posts controller, which can be accessed through
   # the http://localhost:3000/posts/index url.
-  
+
   get "posts/index"
 
   # The priority is based upon order of creation:
   # first created -> highest priority.
-  
+
   # You can have the root of your site routed with "root"
   # just remember to delete public/index.html.
 
